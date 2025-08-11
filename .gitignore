@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# local indices, downloads, and outputs
+data/adgm_index/
+data/adgm_refs/
+data/samples/   # OPTIONAL: keep if you don’t want to commit sample docs
+outputs/
+
+# python cache
+__pycache__/
+*.pyc
